@@ -7,11 +7,11 @@
     {
       "name": "Meo Translate",
       "author": "Meo",
-      "path": "https://raw.githubusercontent.com/hienpro00123/vbook_MeoU/main/dichthuat_meo/plugin.zip",
-      "lib": "https://raw.githubusercontent.com/hienpro00123/vbook_MeoU/main/dichthuat_meo/plugin.json",
+      "path": "https://raw.githubusercontent.com/MoccanTN/1/main/dichthuat_meo/plugin.zip",
+      "lib": "https://raw.githubusercontent.com/MoccanTN/1/main/dichthuat_meo/plugin.json",
       "version": 10,
       "source": "https://github.com/hienpro00123/vbook_MeoU",
-      "icon": "https://raw.githubusercontent.com/hienpro00123/vbook_MeoU/main/dichthuat_meo/icon.png",
+      "icon": "https://raw.githubusercontent.com/MoccanTN/1/main/dichthuat_meo/icon.png",
       "description": "Dịch truyện chữ Trung bằng từ điển Vietphrase của Meo",
       "type": "translate",
       "locale": "vi_VN"
